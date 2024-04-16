@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![GitHub Badge](https://img.shields.io/github/followers/biplovbhandari?style=social)](https://github.com/biplovbhandari?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/BiplovBhandari?style=social)](https://twitter.com/BiplovBhandari)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=wNv2LkEAAAAJ&hl=en)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/TheGeoICT)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@TheGeoICT)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/geomatbiplov)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/biplovbhandari)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=biplovbhandari.biplovbhandari)
