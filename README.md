@@ -37,16 +37,16 @@ Welcome to my portfolio, where I showcase my [projects](#).
 ### 🎖️ Certifications
 <p align="left">
   <a href="https://www.credly.com/badges/0b92831a-b89f-4e65-aa96-74266ec0fd95/public_url" rel="nofollow">
-    <img src="https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="gcp" width="60" height="60" />
+    <img src="https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="gcp" width="80" height="80" />
   </a>
   <a href="https://www.credential.net/f0b8bd32-b3bd-4bd8-8397-ca1b4b3978b7" rel="nofollow">
-    <img src="https://media.licdn.com/dms/image/v2/C560BAQFBgSAlQztspQ/company-logo_100_100/company-logo_100_100/0/1630584446198?e=1748476800&v=beta&t=gQJEc3-dESKp2FA3YB5GqYW3TKR9Kakg_fHk-rRF7Jg" alt="gcp" width="60" height="60" />
+    <img src="https://media.licdn.com/dms/image/v2/C560BAQFBgSAlQztspQ/company-logo_100_100/company-logo_100_100/0/1630584446198?e=1748476800&v=beta&t=gQJEc3-dESKp2FA3YB5GqYW3TKR9Kakg_fHk-rRF7Jg" alt="tensorflow" width="80" height="80" />
   </a>
   <a href="https://www.credly.com/badges/384f43c2-e8d1-40a8-a298-ea54b9724784/public_url" rel="nofollow">
-    <img src="https://images.credly.com/size/680x680/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="gcp" width="60" height="60" />
+    <img src="https://images.credly.com/size/680x680/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="nasa-opensource" width="80" height="80" />
   </a>
   <a href="https://www.credly.com/badges/7e8e7264-ccab-4919-8027-7a5633b1672c/public_url" rel="nofollow">
-    <img src="https://images.credly.com/size/680x680/images/bad47198-deb5-48db-bbc3-85adb64db125/blob" alt="gcp" width="60" height="60" />
+    <img src="https://images.credly.com/size/680x680/images/bad47198-deb5-48db-bbc3-85adb64db125/blob" alt="mckinsey-forward" width="80" height="80" />
   </a>
 </p>
 
