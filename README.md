@@ -26,7 +26,7 @@ Welcome to my portfolio, where I showcase my [projects](#).
 
 ---
 
-### 🛠️ Key Skills
+### 🛠️ Skills
 - **Languages:** Python, SQL, JavaScript, Java  
 - **ML Frameworks:** TensorFlow, PyTorch, scikit-learn, Keras  
 - **Databases:** Google BigQuery, PostgreSQL, PostGIS, MySQL  
